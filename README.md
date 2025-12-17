@@ -39,19 +39,9 @@ The following items are required for submission:
   - Cover page excluded
   - Includes methodology, results, visualizations, and discussion
 
-- **Oral Presentation (10 minutes)**
-  - Demonstrates results
-  - Explains key findings and observations
-
 ---
 
 ## Tools and Technologies
 - Python  
 - NumPy  
-- Matplotlib  
-- Jupyter Notebook  
-
----
-
-## Author
-Brahim Ahmed
+- Google Colab
