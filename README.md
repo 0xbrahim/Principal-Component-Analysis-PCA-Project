@@ -1,5 +1,5 @@
 # Principal Component Analysis (PCA) Project
-Mathematics and Statistics for AI course
+Mathematics and Statistics for AI Course
 
 Project Description:
 In this project, students will explore the application of Principal Component Analysis (PCA) for dimensionality reduction using the provided dataset and image files. Each image represents an observation and each pixel represents a variable. Students will analyze the covariance structure of the data, extract the principal components, and visualize the reduced dimensions to understand the structure and similarity among images. The project emphasizes both conceptual understanding and practical implementation in Python.
