@@ -14,6 +14,9 @@ Project Requirements:
 7. Reconstruct the original images using 2, 5, 10, 20, and 30 principal components, and compare reconstruction quality.
 8. Discuss whether using more principal components improves the quality of reconstructed images.
 9. Submit the following items on Moodle:
+   
    • Python notebook (.ipynb) with clear documentation and comments.
+   
    • A written report (2–3 pages, excluding cover page).
+   
    • A 10-minute oral presentation demonstrating results and explaining findings.
